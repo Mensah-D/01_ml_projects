@@ -1,0 +1,21 @@
+﻿date_id,company_id,channel_id,spend_type,cost_gbp
+1,4,2,Ad Spend,2100
+1,1,2,Marketing,1800
+2,2,4,PR Agency,3500
+2,4,2,Ad Spend,2400
+3,1,5,Production,4200
+3,6,7,Influencers,2600
+4,3,4,PR Agency,1500
+4,4,2,Ad Spend,2500
+5,5,3,CRM Tools,900
+5,4,2,Ad Spend,2700
+6,7,5,Production,2000
+6,1,5,Production,4300
+7,4,2,Ad Spend,2900
+7,6,7,Influencers,2800
+8,2,4,PR Agency,3600
+8,5,3,CRM Tools,950
+9,4,2,Ad Spend,3100
+9,7,5,Production,2100
+10,1,5,Production,4400
+10,6,7,Influencers,3000
